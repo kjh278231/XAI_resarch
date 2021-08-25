@@ -45,7 +45,7 @@
 
 4. 호스트 별 설치 요구조건
 
-    ![Untitled](%5B%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%5D%20XAI%208%E1%84%8B%E1%85%AF%E1%86%AF%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%207a85cbd59295494abb2a97b563416d14/Untitled.png)
+    ![Untitled]([연구장학생] XAI 8월 자료 정리/Untitled.png)
 
 # Monitoring 기능에 필요한 API+Parameter 정리
 
@@ -2426,7 +2426,7 @@
 
 1. Arthur ai 홈페이지를 통해 로그인을 하여 Organization Menu를 통해 API key를 받아온다.
 
-    ![Untitled](%5B%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%5D%20XAI%208%E1%84%8B%E1%85%AF%E1%86%AF%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%207a85cbd59295494abb2a97b563416d14/Untitled%201.png)
+    ![Untitled]([연구장학생] XAI 8월 자료 정리/Untitled%201.png)
 
 2. SSO 인증
 
@@ -2434,7 +2434,7 @@
     이때, Arthur 계정이 admin 이어야 한다.
     /organizations/{organization_id}/auth 을 이용해서 arthur를 사용가능하게 인증한다.
 
-    ![Untitled](%5B%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%5D%20XAI%208%E1%84%8B%E1%85%AF%E1%86%AF%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%207a85cbd59295494abb2a97b563416d14/Untitled%202.png)
+    ![Untitled]([연구장학생] XAI 8월 자료 정리/Untitled%202.png)
 
     firstName, lastName, email을 포함하여 새로운 id를 할당받는다.
 
